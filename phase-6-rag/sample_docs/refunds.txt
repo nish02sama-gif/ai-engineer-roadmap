@@ -1,0 +1,7 @@
+Refund Policy (sample document for practice)
+
+Customers may request a refund within 30 days of purchase. To request a refund, open the Orders page, select the order, and choose "Request refund". Refunds are processed within 5 to 7 business days after approval. The money is returned to the original payment method.
+
+Subscriptions that were renewed automatically can be refunded within 7 days of the renewal date. After 7 days, the subscription can be cancelled but the current billing period is not refunded.
+
+Digital goods that have been downloaded or activated are not eligible for a refund unless they are defective. If an item is defective, contact support with the order number and a short description of the problem. A support agent will review the request within 2 business days.

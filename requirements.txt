@@ -1,0 +1,9 @@
+# Core libraries (Phases 1-3). Install with: pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+scikit-learn
+requests
+python-dotenv
+pytest
+jupyter

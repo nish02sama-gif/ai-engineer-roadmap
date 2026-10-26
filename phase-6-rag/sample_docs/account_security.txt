@@ -1,0 +1,9 @@
+Account Security Guide (sample document for practice)
+
+To reset a forgotten password, choose "Forgot password" on the sign-in page and enter your email address. A reset link is sent immediately and expires after 60 minutes. If you do not see the email, check your spam folder before requesting another link.
+
+Two-factor authentication adds a second step when you sign in. Enable it under Settings, then Security. You can use an authenticator app or text messages. Save your backup codes in a safe place. Each backup code can be used once if you lose access to your phone.
+
+If you suspect someone else has accessed your account, change your password right away, sign out of all devices from the Security page, and contact support. Support will never ask for your password or your two-factor codes.
+
+Accounts are temporarily locked after 5 failed sign-in attempts. The lock lasts 15 minutes. Resetting your password also unlocks the account.

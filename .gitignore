@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Secrets - NEVER commit these
+.env
+*.key
+
+# Data and model files (keep the repo small)
+data/raw/
+*.csv.gz
+*.parquet
+*.pt
+*.pth
+*.bin
+*.safetensors
+vectorstore/
+chroma_db/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

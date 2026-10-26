@@ -1,0 +1,10 @@
+# Heavier libraries (Phase 4 onward). Install with: pip install -r requirements-llm.txt
+# PyTorch is large. If install is slow, see pytorch.org for the CPU-only command.
+-r requirements.txt
+anthropic
+sentence-transformers
+transformers
+torch
+fastapi
+uvicorn
+pydantic
