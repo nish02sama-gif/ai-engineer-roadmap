@@ -37,7 +37,18 @@ def word_count(text: str) -> dict[str, int]:
     word_count("Hello, hello world!") -> {"hello": 2, "world": 1}
     Hint: re.findall(r"[a-z']+", text.lower())
     """
-    raise NotImplementedError
+    counts = {}
+
+    words = re.findall(r"[a-z']+", text.lower())
+
+    for word in words:
+        counts[word] = counts.get(word, 0) + 1
+
+    return counts       
+
+    # raise NotImplementedError
+
+
 
 
 def is_palindrome(s: str) -> bool:
